@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# 发条橙的博客 | ClockOrange Blog
 
-You can use the [editor on GitHub](https://github.com/ClockOrange/ClockOrange.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## try something
+半途的恋人
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在下班回家的路上，我总会遇到同一个人。我擅自把他称为高领毛衣先生，因为多数情况下他总以一件紧身的高领毛衣打底。但是我们只同路到岔路口，原因是我要右转，而他则是继续向前走。虽然几乎每天都会碰面，我们连眼神交流都少得可怜。毛衣先生总是脚步匆匆，眉头紧皱。每次他快步路过我身边的时候，我总是禁不住想：冬天的风还真是冷啊。即使回家，“毛衣先生”这几个字还是是
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ClockOrange/ClockOrange.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
