@@ -12,6 +12,6 @@
 
 ## Current Side Projects
 
-### - Establishing Management System with React.js and Java SpringBoot Frameork 
+### - Establishing Management System with React.js and Java SpringBoot Framework 
 
 
