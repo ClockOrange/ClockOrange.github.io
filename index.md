@@ -4,7 +4,7 @@
 &nbsp;
 
 ## Resume
-<img src="resume_logo.jpg" alt="drawing" width="10"/>[Resume](Zhuocheng_Shang_Resume.pdf "Resume")
+[<img src="resume_log.png" width="20"/>](image.png)[Resume](Zhuocheng_Shang_Resume.pdf "Resume")
 
 ## Cover Letter
 
