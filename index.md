@@ -10,4 +10,8 @@
 ### NLP with Generating Spatial Data from Newspaper
 ### Improving the Generalizability of BGP Anomaly Detection Models
 
+## Current Side Projects
+
+### Establishing Manage System with React.js and Java SpringBoot Frameork 
+
 
