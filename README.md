@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## Resume
+## Resume 
+[link](https://docs.google.com/document/d/e/2PACX-1vQ7zOpq5-1gYjx7dEd8axyov5GgXIJDpaf9NhfgTj9_nLf5XoCVIw-QJSNe2vqO9r4NcoQQunumruxy/pub)
 ## Current Research Projects
 ### Header 3
 
