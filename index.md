@@ -7,11 +7,11 @@
 
 ## Current Research Projects
 
-### NLP with Generating Spatial Data from Newspaper
-### Improving the Generalizability of BGP Anomaly Detection Models
+### - NLP with Generating Spatial Data from Newspaper
+### - Improving the Generalizability of BGP Anomaly Detection Models
 
 ## Current Side Projects
 
-### Establishing Manage System with React.js and Java SpringBoot Frameork 
+### - Establishing Manage System with React.js and Java SpringBoot Frameork 
 
 
