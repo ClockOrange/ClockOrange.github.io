@@ -4,8 +4,7 @@
 &nbsp;
 
 ## Resume
-[Resume](https://docs.google.com/document/d/e/2PACX-1vQ7zOpq5-1gYjx7dEd8axyov5GgXIJDpaf9NhfgTj9_nLf5XoCVIw-QJSNe2vqO9r4NcoQQunumruxy/pub)
-![Resume](Zhuocheng_Shang_Resume.pdf)
+[Resume](Zhuocheng_Shang_Resume.pdf "Resume")
 
 ## Cover Letter
 
