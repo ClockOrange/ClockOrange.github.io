@@ -4,7 +4,7 @@
 &nbsp;
 
 ## Resume
-[Resume](Zhuocheng_Shang_Resume.pdf "Resume")
+[![](resume_logo.png)Resume](Zhuocheng_Shang_Resume.pdf "Resume")
 
 ## Cover Letter
 
