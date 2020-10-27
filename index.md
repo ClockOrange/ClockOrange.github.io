@@ -1,7 +1,7 @@
 # Zoe's
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/zhuochengshang/)
-&nbsp;[![minipic](resume_logo.jpg) Resume](Zhuocheng_Shang_Resume.pdf "Resume")
+&nbsp;[![minipic](resume_logo.png) Resume](Zhuocheng_Shang_Resume.pdf "Resume")
 
 ## Cover Letter
 
