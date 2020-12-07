@@ -8,6 +8,8 @@
 ## Current Research Projects
 #### - NLP with Generating Spatial Data from Newspaper [link]
 #### - Improving the Generalizability of BGP Anomaly Detection Models [link]
+##### * including Python and Stata code
+##### * reformat data across 30 years and match counties with missing or error information to construct a household income panel dataset
 
 ## Previous Research Projects
 #### - SCF
