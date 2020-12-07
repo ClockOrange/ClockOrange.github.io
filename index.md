@@ -1,17 +1,21 @@
-# Zoe's
+# Zhuocheng Shang
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/zhuochengshang/)
-&nbsp;[Resume](Zhuocheng_Shang_CV_Dec_06.pdf "Resume / CV")
+&nbsp;[Resume|CV](Zhuocheng_Shang_CV_Dec_06.pdf "Resume|CV")
 
-## Cover Letter
+
 
 ## Current Research Projects
+#### - NLP with Generating Spatial Data from Newspaper [link]
+#### - Improving the Generalizability of BGP Anomaly Detection Models [link]
 
-### - NLP with Generating Spatial Data from Newspaper
-### - Improving the Generalizability of BGP Anomaly Detection Models
+## Previous Research Projects
+#### - SCF
+#### - Threadhold
+#### - Youtube 
+#### - 2D converting 3D
 
-## Current Side Projects
-
-### - Establishing Management System with React.js and Java SpringBoot Framework 
-
+## Software Projects
+#### - BlockChain
+#### - Argriculture
 
