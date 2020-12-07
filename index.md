@@ -8,16 +8,33 @@
 ## Current Research Projects
 #### - NLP with Generating Spatial Data from Newspaper [link]
 #### - Improving the Generalizability of BGP Anomaly Detection Models [link]
-##### * including Python and Stata code
-##### * reformat data across 30 years and match counties with missing or error information to construct a household income panel dataset
 
 ## Previous Research Projects
-#### - SCF
-#### - Threadhold
-#### - Youtube 
-#### - 2D converting 3D
+
+#### - Study and Analysis Wealth Gap with Survey of Consumer Finance data
+- Study a consistent racial inequality since 1989 to 2017. 
+- Analyze potential factors attribute to the racial wealth gap (e.g. education, job market discrimination and family networks).
+
+#### - Project for PSID Data Cleaning
+- Including Python and Stat code for generating dataset.
+- Reformat data across 30 years and match counties with missing or error information to construct a household income panel dataset.
+
+#### - Youtube Makeup Video Popularity Analysis
+- Analysed correlation between YouTube video title, description, upload date and top comments.
+- Machine Learning algorithms: K-Nearest Neighbors, Decision Tree Classification and CNN.
+
+#### - 2D to 3D Road Network Visualization
+- Applicated prototypes of visualization 3D road network on Google Earth Engine with generated KML.
+- Combined OpenStreetMap 2D road data and DEM data through Spark RDD.
+- Applied grid format to original data with GeoTrellis packages.
 
 ## Software Projects
-#### - BlockChain
-#### - Argriculture
+#### - BlockChain Implementation
+- Implement BlockChain Prototyoes using Python Flask and Docker setup.
+
+#### - Riverside County Pesticides Web Application
+- This application allows agricultural departments to document pesticides records and faculty information.
+- Parsed KML file with Leaflet API and visualized Riverside agriculture field layers on a web map.
+- Overhauled SpringBoot framework to generate front requests, REST API and manage data with MySQL.
+
 
