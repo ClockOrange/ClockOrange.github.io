@@ -9,7 +9,10 @@
 #### - NLP with Generating Spatial Data from Newspaper [link](https://github.com/ClockOrange/NLP-Spatial-Resarch-Project)
 
 ## Previous Research Projects
-#### - Improving the Generalizability of BGP Anomaly Detection Models [link]
+#### - Improving the Generalizability of BGP Anomaly Detection Models [link](https://github.com/ClockOrange/ClockOrange.github.io/blob/master/Improving_the_Generalizability_of_BGP_Anomaly_DetectionModels.pdf)
+- Implement one-class and supervised anomaly detection models, including One-Class SVM, SVDD, LSTM, Isolation Forest.
+- Focus on collective anomaly detection with evaluating and comparing generalization error of each model.
+- Develop and implement a novel model for anomaly detection that has improved generalizability between datasets.
 
 #### - Youtube Makeup Video Popularity Analysis [link](https://github.com/ClockOrange/Sample_Code_Collection/tree/main/Youtube_project)
 - Analysed correlation between YouTube video title, description, upload date and top comments.
