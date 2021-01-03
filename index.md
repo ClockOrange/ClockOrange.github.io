@@ -19,7 +19,7 @@
 - Including Python and Stat code for generating dataset.
 - Reformat data across 30 years and match counties with missing or error information to construct a household income panel dataset.
 
-#### - Youtube Makeup Video Popularity Analysis [link]
+#### - Youtube Makeup Video Popularity Analysis [!link](https://github.com/ClockOrange/Sample_Code_Collection/tree/main/Youtube_project)
 - Analysed correlation between YouTube video title, description, upload date and top comments.
 - Machine Learning algorithms: K-Nearest Neighbors, Decision Tree Classification and CNN.
 
