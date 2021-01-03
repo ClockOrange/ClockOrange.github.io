@@ -6,7 +6,7 @@
 
 
 ## Current Research Projects
-#### - NLP with Generating Spatial Data from Newspaper [link]
+#### - NLP with Generating Spatial Data from Newspaper [link](https://github.com/ClockOrange/NLP-Spatial-Resarch-Project)
 
 ## Previous Research Projects
 #### - Improving the Generalizability of BGP Anomaly Detection Models [link]
